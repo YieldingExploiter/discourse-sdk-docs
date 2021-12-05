@@ -1,2 +1,2 @@
-# discourse-sdk-docs
-Dicsourse SDK Documentation
+# Discourse SDK Documentation
+See <https://sdk.discourse.wtf> for SDK Documentation.
